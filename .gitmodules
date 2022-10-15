@@ -1,0 +1,9 @@
+[submodule "packages/codepunk-client"]
+	path = packages/codepunk-client
+	url = git@github.com:lullabyX/codepunk-client.git
+[submodule "packages/codepunk-cli"]
+	path = packages/codepunk-cli
+	url = git@github.com:lullabyX/codepunk-cli.git
+[submodule "packages/codepunk-local-api"]
+	path = packages/codepunk-local-api
+	url = git@github.com:lullabyX/codepunk-local-api.git
