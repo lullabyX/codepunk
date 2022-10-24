@@ -1,11 +1,9 @@
-![npm](https://img.shields.io/npm/v/codepunk)
+[![npm](https://img.shields.io/npm/v/codepunk)](https://www.npmjs.com/package/codepunk)
 
 # CodePunk
 CodePunk is a JavaScript notebook. It is almost like jupyter notebook but it runs JavaScript. It can run NodeJS environment JS by transpiling and bundling with the help of esbuild.
 
 This repository manages all the packages that work together for the notebook - a cli, a local server and a local client. 
-
-
 
 ## Example
 
